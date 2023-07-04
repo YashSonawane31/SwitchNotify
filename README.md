@@ -3,7 +3,7 @@
 ![1](https://github.com/YashSonawane31/SwitchNotify/assets/115136311/ff3d4d47-b4e9-405d-a307-b55b598f3f60)
 
 # Overview
-This device offers a comprehensive solution for sending SMS notifications through a GSM module. Ability to detect tripped circuit breakers, update phone numbers remotely, and provide backup power ensures reliable and customizable communication for various applications.
+This device offers a comprehensive solution for sending SMS notifications through a GSM module. Ability to detect tripped circuit breakers, update recipients phone numbers remotely, and provide backup power to ensure reliable and customizable communication for various applications.
 
 # Features
 SMS Sending Capability: The device is equipped with a GSM module that allows it to send SMS messages. This enables the device to transmit important notifications or alerts via text messages.
