@@ -1,6 +1,6 @@
 # SwitchNotify
 
-![small](https://github.com/YashSonawane31/SwitchNotify/assets/115136311/eb7d8f35-ad9a-45e7-93c7-9d763d10584b)
+![1](https://github.com/YashSonawane31/SwitchNotify/assets/115136311/ff3d4d47-b4e9-405d-a307-b55b598f3f60)
 
 # Overview
 This device offers a comprehensive solution for sending SMS notifications through a GSM module. Ability to detect tripped circuit breakers, update phone numbers remotely, and provide backup power ensures reliable and customizable communication for various applications.
